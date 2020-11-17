@@ -1,2 +1,2 @@
-# Pen-pal-Friends-List
+# Pen-Pal-Friends-List
 Simple UI to show data from Cloud Firestore when data is updated manually.
