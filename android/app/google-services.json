@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "532421841422",
+    "firebase_url": "https://pen-pal-friends.firebaseio.com",
+    "project_id": "pen-pal-friends",
+    "storage_bucket": "pen-pal-friends.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532421841422:android:98491d330916982671e25f",
+        "android_client_info": {
+          "package_name": "com.karthi.PenPal_Friends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532421841422-ei9d32cl7kvtmk16231m90stej643fsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4QdT5tVzVIz-n9RIK6b42lYdlRBnPylw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532421841422-ei9d32cl7kvtmk16231m90stej643fsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
